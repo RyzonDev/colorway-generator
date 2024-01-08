@@ -14,7 +14,7 @@ int[] colorCodes = {
   #4a5768,#f0f0f0, #bcbac4, #787885, #2e3e67, #4a4848, #262d2d, #262d2d, #F0EDF5, #AAA9AC,
   #ddebdf, #b0ac98, #5b636c, #cfd9d4, #82778d, #5e788d, #ebc86d, #534f5c, #50708b, #032952,
   #4a4a4a, #59637c, #4a5557, #a2727f, #224367, #916e68, #8a6d69, #d97837, #33302c, #142438,
-  #016a4b, #943030, #00489F, #394261
+  #016a4b, #943030, #00489F, #394261, #cecebf, #cc8544, #c96745, #93aeca, #b5b791
 };
 
 String[] colorNames = {
@@ -28,7 +28,8 @@ String[] colorNames = {
   "charcoal-black-reflective-print", "iced-grey", "deep-grey", "frozen-mint", "desert-dusk", "nightfall",
   "faded-grey", "purple-dawn", "faded-sky", "amber-gold", "pari-run-club-los-angeles-edt", "blue-lagoon",
   "ryzon-x-la-marzocco", "reflective-grey", "violet-dusk", "hidden-pine", "shaded-lavender", "coastal-blue", "hazed-brown",
-  "hazy-beige", "golden-desert", "drained-green", "dark-blue", "green-dew", "soaked-red", "solar-blue", "blue-royal"
+  "hazy-beige", "golden-desert", "drained-green", "dark-blue", "green-dew", "soaked-red", "solar-blue", "blue-royal",
+  "pistachio-cream", "ocher-clay", "timber-brown", "blue-void", "green-glare"
 };
 
 
